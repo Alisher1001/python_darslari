@@ -1,27 +1,27 @@
 
 
-##def sayHello():
-##        print('Hello')
-##        print('World')
-##        print('and everyboby')
-##
-##sayHello()
-##print('pause')
-##sayHello()
+def sayHello():
+       print('Hello')
+       print('World')
+       print('and everyboby')
+
+sayHello()
+print('pause')
+sayHello()
 
 
 
-##def squr(x):
-##        print('Raqam kvadrati   ', x, '=', x**2)
-##
-##squr(5)
-##squr(10)
-##
-##
-##for i in range(1, 11):
-##        squr(i)
+def squr(x):
+       print('Raqam kvadrati   ', x, '=', x**2)
+
+squr(5)
+squr(10)
 
 
+for i in range(1, 11):
+       squr(i)
+
+sayHello()
 
 
 
