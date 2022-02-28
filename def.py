@@ -25,18 +25,18 @@ sayHello()
 
 
 
-##def squr(x):
-##        print('Raqam kvadrati   ', x, '=', x**2)
-##
-##squr(5)
-##
-##
-##
-##def multi(a, b):
-##        print(a*b)
-##
-##multi(3, 5)
-##multi(70, 100)
+def squr(x):
+       print('Raqam kvadrati   ', x, '=', x**2)
+
+squr(5)
+
+
+
+def multi(a, b):
+       print(a*b)
+
+multi(3, 5)
+multi(70, 100)
 
 
 
@@ -44,16 +44,16 @@ sayHello()
 
 
 
-##def even(a):
-##        if a%2==0:
-##                print(a, 'butun')
-##        else:
-##                print(a, 'qoldiqli')
-##
-##
-##
-##for i in range(20, 31):
-##        even(i)
+def even(a):
+       if a%2==0:
+               print(a, 'butun')
+       else:
+               print(a, 'qoldiqli')
+
+
+
+for i in range(20, 31):
+       even(i)
 
 
 
